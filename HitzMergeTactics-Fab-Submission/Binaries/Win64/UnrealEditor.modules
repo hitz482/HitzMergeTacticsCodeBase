@@ -1,0 +1,10 @@
+{
+	"BuildId": "55116800",
+	"Modules": 
+	{
+		"HMT_Core": "UnrealEditor-HMT_Core.dll",
+		"HMT_CoreEditor": "UnrealEditor-HMT_CoreEditor.dll",
+		"HMT_GASBridge": "UnrealEditor-HMT_GASBridge.dll",
+		"HitzMergeTactics": "UnrealEditor-HitzMergeTactics.dll"
+	}
+}
