@@ -1,0 +1,28 @@
+# Unreal Engine 5
+
+Binaries/
+Intermediate/
+Saved/
+DerivedDataCache/
+Build/
+
+# IDE / toolchain
+
+.vs/
+.vsconfig
+*.sln
+*.suo
+*.VC.db
+*.VC.VC.opendb
+*.opensdf
+*.sdf
+*.opendb
+*.userprefs
+.idea/
+.vscode/
+
+# Unreal-specific caches and generated files
+
+*.pdb
+*.target
+*.modules
